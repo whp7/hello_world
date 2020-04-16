@@ -1,2 +1,3 @@
 # hello_world
-just another repository
+
+i want to learn python so much!
